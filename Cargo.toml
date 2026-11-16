@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-direct-rendering-infrastructure"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS direct-rendering-infrastructure component - graphics"
+
+[lib]
+name = "direct_rendering_infrastructure"
+path = "src/lib.rs"
