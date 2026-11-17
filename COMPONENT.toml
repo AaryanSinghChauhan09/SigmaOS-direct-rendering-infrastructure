@@ -3,7 +3,7 @@ name = "SigmaOS-direct-rendering-infrastructure"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "direct-rendering-infrastructure component"
+description = "Direct Rendering Infrastructure"
 upstream = []
 
 [contract]
